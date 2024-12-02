@@ -1,0 +1,22 @@
+/* Estilos del Navbar */
+.navbar {
+    background-color: #3f51b5;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar .MuiToolbar-root {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar .MuiButton-root {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s;
+  }
+  
+  .navbar .MuiButton-root:hover {
+    background-color: #5c6bc0;
+  }
+  

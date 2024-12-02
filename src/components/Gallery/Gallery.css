@@ -1,0 +1,44 @@
+/* Estilos de Gallery */
+.gallery-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .gallery-title {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .art-item {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .art-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .art-item .MuiButton-root {
+    margin-top: 10px;
+  }
+  .art-3d {
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  
+
+  
+
+  
+  

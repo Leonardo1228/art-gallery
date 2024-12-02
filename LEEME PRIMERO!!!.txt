@@ -1,0 +1,11 @@
+Hola. Esta es la galería de arte de Sergio Vivas. Aquí te explicare como comandar los aspectos fundamentales de esta:
+-En la carpeta src están todos los componentes de la galería y especialmente el menu de inicio.
+-La galería controla la presentación de las tres obras de arte y en archivo nombrado ArtModel tiene el código para la interactividad
+con las obras.
+-La carpeta public tiene la carpeta con los modelos guardados.
+-Esta galeria se divide en 3 secciones: inicio, la galeria si misma, y contacto, en donde la utlima podra enviar mensajes para contactarse
+conmigo sobre esta galeria.
+-La galeria te da la opcion de ver informacion con el boton "ver detalles" y agregar tus propios comentarios, aunque estas adiciones
+son solo temporales.
+
+Creditos especiales a Sketchfab por los modelos utilizados.

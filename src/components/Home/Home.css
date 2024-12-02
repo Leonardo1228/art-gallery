@@ -1,0 +1,19 @@
+/* Estilos de home */
+.home-container {
+    text-align: center;
+    margin-top: 10vh;
+  }
+  
+  .home-container h1 {
+    font-size: 3rem;
+    color: #3f51b5;
+    margin-bottom: 10px;
+  }
+  
+  .home-container p {
+    font-size: 1.5rem;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
